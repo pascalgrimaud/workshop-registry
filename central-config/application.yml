@@ -1,0 +1,11 @@
+#common configuration shared between all applications
+configserver:
+    name: Docker JHipster Registry
+    status: Connected to local Registry
+
+jhipster:
+    security:
+        authentication:
+            jwt:
+                base64-secret: YzIwODdjMGM3NWNlYzZmMGIyZTQxNWM0MzhhYzNhM2UzM2Q3YWRjYzE4NGZiYWQxYjNkN2E2N2MzYmE1OTg0NjM5ZDMyYjZjYjY1ZDViZjEwZDU4Y2ZkOTdmZGM0MjUxMjc1MA==
+
